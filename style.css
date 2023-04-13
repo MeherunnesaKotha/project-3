@@ -1,0 +1,26 @@
+.fulltable{
+	border:2px solid black;
+	margin:auto;
+	width:60%;
+}
+.head{
+	color:red;
+	text-align:center;
+}
+.tdheight{
+	height:60px;
+	border:1px solid black;
+	text-align:center;
+}
+.tdwidth{
+	width:33.33%;
+	
+}
+.tr1{
+	background-color:yellow;
+	
+}
+.tr2{
+	background-color:tomato;
+	
+}
